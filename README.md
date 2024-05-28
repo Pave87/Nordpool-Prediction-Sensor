@@ -21,7 +21,7 @@ You need to get token from your Home Assistant instance. You can get it by click
 
 nordpool_sensor:
 
-Name of nordpool sensor in your Home Assistance instance.
+Name of nordpool sensor in your Home Assistant instance.
 
 use_additional_costs:
 
